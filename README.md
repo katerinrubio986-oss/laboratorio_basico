@@ -31,10 +31,9 @@ Pide dos números por teclado y realiza las mismas operaciones básicas del ejer
 Muestra los números del 1 al 10 y calcula su promedio.
 
 
-## 🌐 Sección 3 — Uso de Git y GitHub
+## Sección 3 — Uso de Git y GitHub
 
 Repositorio creado:  
-👉 [https://github.com/katerinrubio986-oss/laboratorio_basico](https://github.com/katerinrubio986-oss/laboratorio_basico)
+ [https://github.com/katerinrubio986-oss/laboratorio_basico](https://github.com/katerinrubio986-oss/laboratorio_basico)
 
 
-✨ **Versión inicial del laboratorio básico — Octubre 2025**
